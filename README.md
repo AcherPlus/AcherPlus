@@ -1,6 +1,5 @@
 ## Buenos días, tardes o noches 👋
-> "La clave no es apuntar al centro. Primero lanza la flecha y luego pintas alrededor"
-> - Ernesto Acher
+> "La clave no es apuntar al blanco. Primero lanza la flecha y luego pinta ahí el blanco".
 <!--
 **AcherPlus/AcherPlus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
