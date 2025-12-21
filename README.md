@@ -1,12 +1,12 @@
-## Bienvenid@. Soy Enmanuel Obando (AcherPlus) 👋
+# Bienvenid@. Soy Enmanuel Obando (AcherPlus) 👋
 Estudiante de Ingeniería de Software - UNMSM
 > "La clave no es apuntar al blanco. Primero lanza la flecha y donde caiga pinta el blanco".
 
-**Habilidades técnicas**
+## **Habilidades técnicas**
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AcherPlus&layout=compact)
 
-**Certificaciones**
+## **Certificaciones**
 ---
 <p align="left">
   <a href="https://www.hackerrank.com/certificates/4fd45f323974">
