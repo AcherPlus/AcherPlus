@@ -16,13 +16,13 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
-## Certificaciones (HackerRank)
+## Certificaciones
 ---
 <p align="left">
   <a href="https://www.hackerrank.com/certificates/4fd45f323974">
     <img src="hackerrank-python-basic.png" height="110" alt="Python Basic">
   </a>
-  </p>
+</p>
 
 ## Estadísticas
 ---
