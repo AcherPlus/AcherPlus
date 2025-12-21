@@ -1,5 +1,8 @@
 ## Buenos días, tardes o noches 👋
-> "La clave no es apuntar al blanco. Primero lanza la flecha y luego pinta ahí el blanco".
+> "La clave no es apuntar al blanco. Primero lanza la flecha y donde caiga pinta el blanco".
+
+**Estudiante de Ingeniería de Software - UNMSM**
+https://github-readme-stats.vercel.app/api/top-langs/?username=AcherPlus&layout=compact
 <!--
 **AcherPlus/AcherPlus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
