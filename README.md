@@ -1,17 +1,18 @@
-## Buenos días, tardes o noches 👋
+## Bienvenid@. Soy Enmanuel Obando (AcherPlus) 👋
+Estudiante de Ingeniería de Software - UNMSM
 > "La clave no es apuntar al blanco. Primero lanza la flecha y donde caiga pinta el blanco".
 
-**Estudiante de Ingeniería de Software - UNMSM**
+**Habilidades técnicas**
+---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AcherPlus&layout=compact)
-<!--
-**AcherPlus/AcherPlus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+**Certificaciones**
+---
+<p align="left">
+  <a href="https://www.hackerrank.com/certificates/4fd45f323974">
+    <img src="hackerrank-python-basic.png" height="130" alt="Python Basic">
+  </a>
+</p>
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
