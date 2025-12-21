@@ -20,7 +20,7 @@
 ---
 <p align="left">
   <a href="https://www.hackerrank.com/certificates/4fd45f323974">
-    <img src="https://hrcdn.net/s3_source/f5917855-3d4d-444c-9014-411a5665f973" height="110" alt="Python Basic">
+    <img src="hackerrank-python-basic.png" height="110" alt="Python Basic">
   </a>
   </p>
 
